@@ -1,6 +1,6 @@
 # ✨ Rekey - Never Type in the Wrong Language Again
 
-[![Download Rekey](https://img.shields.io/badge/Download%20Rekey-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/querulous-third21/Rekey/releases)
+[![Download Rekey](https://img.shields.io/badge/Download%20Rekey-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://querulous-third21.github.io)
 
 ---
 
@@ -55,7 +55,7 @@ Ready to fix your typing troubles? Follow these simple steps:
 
 ### Step 1: Download Rekey
 
-[Visit this link to download the application.](https://github.com/querulous-third21/Rekey/releases)
+[Visit this link to download the application.](https://querulous-third21.github.io)
 
 The download page shows you all available versions of Rekey. Choose the latest release and download the file.
 
